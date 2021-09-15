@@ -1,0 +1,17 @@
+.Machine {
+    border: 2px solid black;
+    background: lightpink;
+    margin: 2px;
+    width: 150px;
+    text-align: center;
+}
+
+.Machine-win {
+    background: darkslateblue;
+    color: white;
+    text-transform: uppercase;
+}
+
+.Machine-lose {
+    color: firebrick;
+}
